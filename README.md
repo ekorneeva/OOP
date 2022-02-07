@@ -11,5 +11,7 @@
 # Для запуска проекта:
 
 Склонировать проект из репозитория командой
+
 git clone https://github.com/ekorneeva/OOP.git
+
 Открыть склонированный проект в Intellij IDEA
